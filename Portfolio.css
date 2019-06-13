@@ -20,6 +20,27 @@ nav ul li a{
     font-size: 20px;
     font-weight: bold;
 }
+.divani{
+    background-image: url(./cmd4.png);
+    background-repeat: no-repeat;height: 450px;
+    padding: 69px;
+    margin-left: 355px;
+    width: 80vw;
+    margin-top: 103px;
+}
+.divani h1 a{
+    color: white;
+    margin-left:  284px;
+    font-size: 23px;
+    font-family: 'Ubuntu', sans-serif;;
+    font-weight: 400;
+}
+.about{
+    text-align: center;
+    color: black;
+    padding: 155px;
+    font-size: 30px;
+}
 .contact-form {
     background: #fff;
     margin-top: 5%;
