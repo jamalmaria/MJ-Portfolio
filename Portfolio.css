@@ -287,6 +287,9 @@ nav ul li a{
     animation: animate-hover .5s;
     transition: all .3s
 }
+.below{
+    display: none;
+}
 
 @keyframes animate {
     0%,
@@ -362,6 +365,12 @@ nav ul li a{
     }
     .box3 .title {
         margin: 0
+    }
+    .below{
+        display: block !important;
+    }
+    .above{
+        display: none !important;
     }
     .divani{
         background-color: transparent;
