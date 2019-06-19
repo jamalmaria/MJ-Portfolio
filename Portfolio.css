@@ -162,7 +162,7 @@ nav ul li a{
 }
 .skillrow{
     margin-left: -120px;
-    margin-right: -120px;
+    margin-right: 0px;
     margin-top: 70px;
     display: flex;
 }
