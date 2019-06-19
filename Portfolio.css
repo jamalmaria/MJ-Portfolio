@@ -26,10 +26,11 @@ nav ul li a{
 .divani{
     background-image: url(./cmd4.png);
     background-repeat: no-repeat;height: 450px;
+    margin:0 auto;
     padding: 69px;
-    margin-left: 355px;
+    /* margin-left: 355px; */
     width: 80vw;
-    margin-top: 103px;
+    /* margin-top: 103px; */
 }
 .divani h1 a{
     color: white;
