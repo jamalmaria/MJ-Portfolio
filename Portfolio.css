@@ -369,6 +369,7 @@ nav ul li a{
         margin: 0 !important;
         margin-top: 50% !important;
         text-align: center !important;
+        height: auto;
     }
     .divani h1 a{
         color: black;
@@ -390,7 +391,7 @@ nav ul li a{
     footer{
         bottom:0;
         position: relative;
-        display: none;
+        /* display: none; */
     }
     .form-control{
         padding-left: 10px;
@@ -404,6 +405,9 @@ nav ul li a{
         height: 229px;
         width: 332px;
         padding: 0;
+    }
+    .skillrow{
+        margin-left: auto !important;
     }
 
 }
