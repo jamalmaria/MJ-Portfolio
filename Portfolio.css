@@ -429,6 +429,7 @@ nav ul li a{
     }
     .footposition{
         position:relative !important;
+        bottom: 0 !important;
     }
 
 }
