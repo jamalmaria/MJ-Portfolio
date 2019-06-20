@@ -350,7 +350,7 @@ nav ul li a{
     }
     footer{
         bottom:0;
-        display: none;
+        display: block;
     }
 }
 
@@ -400,8 +400,8 @@ nav ul li a{
         margin: -140px auto !important;
     }
     footer{
-        bottom:0;
-        position: relative;
+        bottom:0 !important;
+        position: absolute;
         /* display: none; */
     }
     .form-control{
@@ -419,6 +419,9 @@ nav ul li a{
     }
     .skillrow{
         margin-left: auto !important;
+    }
+    .footposition{
+        position:relative !important;
     }
 
 }
