@@ -161,8 +161,8 @@ nav ul li a{
 .projectimg{
     vertical-align: center;
     border-style: none;
-    height: 280px;
-    width: 407px;
+    height: auto;
+    width: 100%;
     padding: 30px;
 }
 .skillrow{
@@ -336,9 +336,10 @@ nav ul li a{
         background-repeat: no-repeat;
         height: 450px;
         padding: 69px;
-        margin-left: -8px;
+        margin: 0 auto;
+        /* margin-left: -8px; */
         width: 100vw;
-        margin-top: 103px;
+        /* margin-top: 103px; */
     }
     .about{
         font-size: 30px;
