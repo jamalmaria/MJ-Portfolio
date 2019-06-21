@@ -344,7 +344,7 @@ nav ul li a{
         padding: 69px;
         margin: 0 auto;
         /* margin-left: -8px; */
-        width: 100vw;
+        width: auto;
         /* margin-top: 103px; */
     }
     .about{
