@@ -250,6 +250,9 @@ nav ul li a{
     color: #25921b;
     margin: 0 0 5px
 }
+.white{
+    color: white !important;
+}
 
 .box3 .post {
     display: block;
